@@ -14,7 +14,7 @@
         <button type="submit">Submit</button>
     </form>
     <div id="notesContainer">
-        <!-- This empty div will be populated with notes after submission -->
+       
     </div>
 
     <?php
